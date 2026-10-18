@@ -1,5 +1,4 @@
 name: Build CodeInjector APK
-
 on:
   push:
     paths:
